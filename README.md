@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my Civic tech project about Recycling!
-<be>
+🔭 I'm currently working on my Civic tech project about Recycling!<be>
 🚻 I'm looking to collaborate on: Innovative projects utilizing Javascript, Postgresql, TailwindCss, React.js, and Express.js. I'm particularly interested in applications that have a significant impact on users and environments.
 <be>
 🤝 I’m looking for help with: Gaining more professional experience in the tech industry, particularly in roles where I can leverage my software engineering skills and learn new ones. I'm eager to tackle real-world challenges and contribute to a team's success.
