@@ -1,14 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my Civic tech project about Recycling!<be>
-🚻 I'm looking to collaborate on: Innovative projects utilizing Javascript, Postgresql, TailwindCss, React.js, and Express.js. I'm particularly interested in applications that have a significant impact on users and environments.
-<be>
-🤝 I’m looking for help with: Gaining more professional experience in the tech industry, particularly in roles where I can leverage my software engineering skills and learn new ones. I'm eager to tackle real-world challenges and contribute to a team's success.
-<be>
-🌱 I’m currently learning: React.js, Jest, and Testing for back-end applications.
-<be>
-💬 Ask me about: My experiences developing applications like HeliQuench and Pure Link. I'm passionate about sharing the process, challenges, and triumphs that go into creating impactful digital solutions.
-<be>
-🚗 Fun fact: Beyond coding, I love cruising the roads. Driving, much like coding, is about nailing the basics. Mastering the essentials—anticipating turns and adapting on the fly—creates a smooth ride, whether it's lines of code or miles on the road!
+🔭 I'm currently working on my Civic tech project about Recycling!<be>🚻 I'm looking to collaborate on: Innovative projects utilizing Javascript, Postgresql, TailwindCss, React.js, and Express.js. I'm particularly interested in applications that have a significant impact on users and environments.<be>🤝 I’m looking for help with: Gaining more professional experience in the tech industry, particularly in roles where I can leverage my software engineering skills and learn new ones. I'm eager to tackle real-world challenges and contribute to a team's success.<be>🌱 I’m currently learning: React.js, Jest, and Testing for back-end applications.<be>💬 Ask me about: My experiences developing applications like HeliQuench and Pure Link. I'm passionate about sharing the process, challenges, and triumphs that go into creating impactful digital solutions.<be>🚗 Fun fact: Beyond coding, I love cruising the roads. Driving, much like coding, is about nailing the basics. Mastering the essentials—anticipating turns and adapting on the fly—creates a smooth ride, whether it's lines of code or miles on the road!
 
 
 ## 🌐 Socials:
