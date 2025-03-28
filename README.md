@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a upper junior college student @ CCNY, a Marcy Lab School Alumni, and a Google G-SWEP x2 Fellow! I like to play tennis on the weekends and scroll through LinkedIn as if it were Instagram >.>
+🔭 I'm an upper junior college student @ CCNY, a Marcy Lab School Alumni, and a Google G-SWEP x2 Fellow! I like to play tennis on the weekends and scroll through LinkedIn as if it were Instagram >.>
 <br>
 <br>
 🚻 I'm looking to collaborate on: Innovative projects utilizing Javascript, Postgresql, TailwindCss, React.js, and Express.js. I'm particularly interested in applications that have a significant impact on users and environments.
