@@ -14,7 +14,7 @@
 💬 Ask me about: My experiences developing applications like HeliQuench and Pure Link. I'm passionate about sharing the process, challenges, and triumphs that go into creating impactful digital solutions.
 <br>
 <br>
-🚗 Fun fact: Beyond coding, I love cruising the roads. Driving, much like coding, is about nailing the basics. Mastering the essentials—anticipating turns and adapting on the fly—creates a smooth ride, whether it's lines of code or miles on the road!
+🚗 Fun fact: Beyond coding, I love anything from gaming, tennis to fitness. 
 
 
 ## 🌐 Socials:
